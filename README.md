@@ -1,0 +1,2 @@
+# ASIMMascara
+Este es un repositorio para trabajar y aportar al diseño de una máscara que permita protegerse del covid19 y de los gases lacrimpogenos. Está basada en muchos diseños que serán referenciados a lo largo del repo. Inicialmente está pensado para ser fabricado mediante impresión 3D, pero dados los inconvenientes de esta técnica de manufactura, se referencia el procedimiento para fabricar el diseño mediante distintas técnicas.
